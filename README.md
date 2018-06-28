@@ -1,4 +1,14 @@
+
 # limelock-node
+
+<p align="center">
+    <img src="https://limelock.io/lime.png"
+        height="130">
+</p>
+
+[![npm](https://img.shields.io/npm/dw/localeval.svg)](https://www.npmjs.com/package/limelock)
+
+
 [Limelock](https://limelock.io) library for Node JS
 
 ## Installation
