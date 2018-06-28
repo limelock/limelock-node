@@ -1,6 +1,6 @@
 {
   "name": "limelock",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Limelock data storage and integrity library for Node JS",
   "main": "index.js",
   "directories": {
