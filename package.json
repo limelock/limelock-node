@@ -1,0 +1,36 @@
+{
+  "name": "limelock",
+  "version": "0.0.1",
+  "description": "Limelock data storage and integrity library for Node JS",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "browserify lib/limelock.js -s Limelock > dist/limelock.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/limelock/limelock-node.git"
+  },
+  "keywords": [
+    "data storage",
+    "data integrity",
+    "storage",
+    "SaaS",
+    "file",
+    "API",
+    "limelock"
+  ],
+  "author": "limelock.io",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/limelock/limelock-node/issues"
+  },
+  "homepage": "https://github.com/limelock/limelock-node#readme",
+  "dependencies": {
+    "delay": "^3.0.0",
+    "request": "^2.87.0"
+  }
+}
